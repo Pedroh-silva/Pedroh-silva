@@ -1,4 +1,4 @@
-### Olá, me Pedro Henrique! ✌️
+### Olá, me chamo Pedro Henrique! ✌️
 
 ## 😀Um pouco sobre mim
 Olá de novo!

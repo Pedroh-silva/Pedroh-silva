@@ -32,8 +32,8 @@ Embora eu ainda não tenha tido a oportunidade de trabalhar em uma empresa de te
 ---
 
 Apesar de não parecer tão ativo por aqui, mantenho atualizando e aperfeiçoando minhas habilidades sempre!
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedroh-Silva&show_icons=true&theme=radical)
-
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedroh-Silva&show_icons=true&theme=transparent&hide=contribs,prs)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroh-Silva&layout=compact&theme=transparent&langs_count=4&hide=less)
 
 ## 📲 Contatos
 Entre em contato comigo!
@@ -44,6 +44,9 @@ Entre em contato comigo!
 
 
 ## ✅ Meu projeto favorito
-Fique a vontade e dê uma olhada: E-commerce [GeekShopping](https://github.com/Pedroh-silva/Microservices-GeekShopping)
+Fique a vontade e dê uma olhada: [GeekShopping](https://github.com/Pedroh-silva/Microservices-GeekShopping)
 
 <img width="200" alt="GeekShopping" src="https://user-images.githubusercontent.com/102628363/230468965-cbac2079-8020-4de3-8d3f-1b26261454ca.png"/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pedroh-silva&repo=Microservices-GeekShopping&theme=transparent)](https://github.com/Pedroh-silva/Microservices-GeekShopping)
+

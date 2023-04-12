@@ -12,9 +12,9 @@
 Olá, de novo!
 <img align="right" width="199px" height="274px" src="https://user-images.githubusercontent.com/102628363/231224796-e1a67304-74f1-48a3-8b0a-9ff0c17cc708.gif">
 
-<p align="left">Sou um desenvolvedor Back-end from São Paulo, Brasil <img width="20px" src="https://user-images.githubusercontent.com/102628363/231239848-6de154b3-d9f2-4856-887f-cf674ec5497f.png">.</p>
+<p align="left">Sou um desenvolvedor Back-end de São Paulo, Brasil <img width="20px" src="https://user-images.githubusercontent.com/102628363/231239848-6de154b3-d9f2-4856-887f-cf674ec5497f.png">.</p>
 
-Sou um estudante de farmácia com paixão pela programação, emboora minha formação em uma área diferente, trago uma forte compreensão sobre a importância da comunicação efetiva e colaboração entre profissionais de saúde para garantir o bem-estar dos pacientes.
+Sou um estudante de farmácia com paixão pela programação, embora minha formação em uma área diferente, trago uma forte compreensão sobre a importância da comunicação efetiva e colaboração entre profissionais de saúde para garantir o bem-estar dos pacientes.
 
 Essa habilidade de trabalhar em equipe e comunicar claramente é algo que considero um ponto forte e totalmente aplicável no desenvolvimento de software.
 
